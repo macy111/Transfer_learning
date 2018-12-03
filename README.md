@@ -1,1 +1,5 @@
 # Transfer_learning
+
+tensorflow版本实验请看AlexNet_transfer_learning_eg1.ipynb
+
+keras版本实验请看keras_transfer_learning.ipynb
